@@ -1,5 +1,9 @@
 ## vlivers.com
 https://vlivers.com/
 
-Content repository.
+コンテンツ リポジトリ。
 
+
+### 構想
+
+現在準備中です
